@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "dykim515.github.io" # the base hostname & protocol for your site
 social:
  # twitter: 
-  github: https://github.com/dykim515
+#github: https://github.com/dykim515
  # linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/dayoung.k.kim
   google-plus-square: https://plus.google.com/u/0/+dykim515
