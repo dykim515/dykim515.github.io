@@ -9,4 +9,3 @@ permalink: /linguistics/taaward/
 <p>by Linguistics Department at the University of California, San Diego</p>
 
 ![](/images/ta.png)
- \includegraphics[keepaspectratio,width=\textwidth]{/images/ta.png} 
