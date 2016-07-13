@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Linguistics
 permalink: /linguistics/taaward/
 ---
